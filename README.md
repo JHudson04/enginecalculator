@@ -15,4 +15,4 @@ This is a simple C++ program that calculates internal combustion engine stats ba
 ## How to Build
 
 ```bash
-g++ -o engine_calculator engine_calculator.cpp
+g++ -o engine engine.cpp
